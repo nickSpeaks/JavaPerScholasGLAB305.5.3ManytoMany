@@ -1,5 +1,12 @@
 #  Guided LAB 305.5.3B  - Demonstration of @ManytoMany Relationship and Mapping 
 
+#### Source:
+https://github.com/wilbur61/GLAB305.5.3ManytoMany
+
+#### Submission: 
+https://github.com/nickSpeaks/JavaPerScholasGLAB305.5.3ManytoMany
+
+
 ### Lab Overview:
 We will continue from the previous LAB 305.5.2
 
